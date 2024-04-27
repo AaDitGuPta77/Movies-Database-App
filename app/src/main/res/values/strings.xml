@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MoFlix</string>
+    <string name="password">Password</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="trending_movies">Trending Movies</string>
+    <string name="top_picks_for_you">Top picks for you</string>
+    <string name="category">Most Liked</string>
+    <string name="thriller">Thriller</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="no_acc">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="yes_acc">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title">Title</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+</resources>

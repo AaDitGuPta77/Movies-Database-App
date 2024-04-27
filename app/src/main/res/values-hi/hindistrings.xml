@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मोफ़्लिक्स</string>
+    <string name="password">पासवर्ड</string>
+    <string name="search_movies">फ़िल्में खोजें</string>
+    <string name="trending_movies">ट्रेंडिंग फिल्में</string>
+    <string name="top_picks_for_you">आपके लिए शीर्ष</string>
+    <string name="category">सबसे ज्यादा पसंद</string>
+    <string name="thriller">थ्रिलर</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="e_mail">ईमेल</string>
+    <string name="no_acc">क्या आपके पास खाता नहीं है?</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="yes_acc">क्या आपके पास पहले से एक खाता मौजूद है?</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="title">शीर्षक</string>
+    <string name="home">होम</string>
+    <string name="explore">एक्सप्लोरर</string>
+    <string name="profile">प्रोफाइल</string>
+</resources>
